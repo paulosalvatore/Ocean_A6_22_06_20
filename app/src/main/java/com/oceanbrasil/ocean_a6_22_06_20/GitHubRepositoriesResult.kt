@@ -15,4 +15,7 @@ Desafio:
 
 Adicionar propriedade da classe owner na classe Repository
 Criação da classe owner, com os dados que achar relevante
+
+URL da API: https://api.github.com/repositories
+Verbo: GET
 */
